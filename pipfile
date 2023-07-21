@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+discord.py = "2.3.1"
+Pillow = "9.5.0"
+python-dotenv = "1.0.0"
+requests = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
+
+[scripts]
+start = "python Bluue/bot.py"
