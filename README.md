@@ -10,8 +10,8 @@ email: DragonAlley64@gmail.com\
 discord: dragonally
 
 ### **GitHub**:
-[jonathan12537](https://github.com/Jonathan12537)\
-[Bluue Bot](https://github.com/Jonathan12537/Bluue)
+[DragonInspire](https://github.com/DragonInspire)\
+[Bluue Bot](https://github.com/DragonInspire/Bluue)
 
 ## Getting Started 
 1. Clone the repository: 
