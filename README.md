@@ -16,7 +16,7 @@ discord: dragonally
 ## Getting Started 
 1. Clone the repository: 
 ~~~
-bash git clone https://github.com/Jonathan12537
+bash git clone https://github.com/DragonInspire/Blue-Bot
 ~~~
 
 2. install pipenv
