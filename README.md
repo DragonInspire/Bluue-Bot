@@ -11,7 +11,7 @@ discord: dragonally
 
 ### **GitHub**:
 [DragonInspire](https://github.com/DragonInspire)\
-[Bluue Bot](https://github.com/DragonInspire/Bluue)
+[Bluue Bot](https://github.com/DragonInspire/Bluue-Bot)
 
 ## Getting Started 
 1. Clone the repository: 
