@@ -1,5 +1,7 @@
 # Bluue Bot
 
+## This program is deprecated
+
 Quick little discord bot with functionality to paste a maleman suit onto a minecraft skin
 
 ## Project Information
