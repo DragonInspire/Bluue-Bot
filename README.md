@@ -1,8 +1,10 @@
 # Bluue Bot
 
+Quick little discord bot with functionality to paste a maleman suit onto a minecraft skin
+
 ## This program is deprecated
 
-Quick little discord bot with functionality to paste a maleman suit onto a minecraft skin
+access the updated bot <a href="https://github.com/DragonInspire/Bluue-Bot-V2">here</a>
 
 ## Project Information
 
